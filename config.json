@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscncrypt",
+        "uuid": 25805598,
+        "checksum": "hayf8"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
